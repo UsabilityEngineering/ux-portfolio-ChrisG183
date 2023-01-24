@@ -1,6 +1,7 @@
 # UX Portfolio
 
 About me...
+My name is Christopher Fernand Miyashiki Gonzalez and I am a student in computer science. 
 
 ## UX Team Project
 
